@@ -1,5 +1,5 @@
 [package]
-name = "LMAX-Ring-Buffer"
+name = "lmax_ring_buffer"
 version = "0.1.0"
 edition = "2021"
 
